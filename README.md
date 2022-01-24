@@ -12,7 +12,7 @@ This project is an example of how to use websockets in NGINX.
 docker-compose up
 ```
 
-Then go to either one of: http://localhost:81/wsapp, http://localhost:81/wschat or http:localhost, to test the websocket
+Then go to either one of: http://localhost:81/wsapp, http://localhost:81/wschat or http://localhost, to test the websocket
 
 ## Contributing
 Pull requests and suggestions are welcome 😁.
