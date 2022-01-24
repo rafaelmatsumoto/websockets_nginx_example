@@ -1,2 +1,5 @@
-*.md
 .git
+README.md
+docker-compose.yml
+.gitignore
+LICENSE
